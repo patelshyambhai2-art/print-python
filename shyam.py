@@ -1,4 +1,4 @@
-print("hello world")
+print("hello python")
 print("shyam")
 print("silver oak university")
 print("wellcome to programming")
